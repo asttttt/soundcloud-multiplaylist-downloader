@@ -1,6 +1,6 @@
 # SoundCloud Playlist Downloader
 
-Downloads Multiple SoundCloud playlists as m4a files (AAC, best available quality) with embedded thumbnails and metadata. Each playlist gets its own subfolder with an m3u8 playlist file compatible with VLC, foobar2000 or any playlist-supporting player.
+A [yt-dlp](https://github.com/yt-dlp/yt-dlp) script to downloads multiple SoundCloud playlists as m4a files (AAC, best available quality) with embedded thumbnails and metadata. Each playlist gets its own subfolder with an m3u8 playlist file compatible with VLC, foobar2000 or any playlist-supporting player.
 ```
 SoundCloud_Playlists/
 ├── Playlist Name/
